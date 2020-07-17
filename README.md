@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+算是在疫情期间为国家疫情防控做过一些数据上的微小的贡献
+
+长期做抓取，搞过各种JS
+
+不卖代码，但欢迎交流，失效后才会开源全部代码，并建议大家都如此
+
+微信 HiddenStrawberry
 <!--
 **HiddenStrawberry/HiddenStrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
