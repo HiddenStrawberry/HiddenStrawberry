@@ -10,8 +10,6 @@
 
 微信 HiddenStrawberry
 
-独家公众号抓取渠道
-
 <!--
 **HiddenStrawberry/HiddenStrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
