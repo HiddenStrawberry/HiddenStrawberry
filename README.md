@@ -9,7 +9,7 @@
 失效后才会开源全部代码，并建议大家都如此
 
 微信 HiddenStrawberry
-
+![Minghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddenstrawberry&show_icons=true&theme=radical)
 <!--
 **HiddenStrawberry/HiddenStrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
