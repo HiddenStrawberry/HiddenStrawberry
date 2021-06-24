@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-算是在疫情期间为国家疫情防控做过一些数据上的微小的贡献（国家卫健委/国家疾控中心数据支持）
-
-长期做抓取，搞过各种JS，现在在为某基金公司服务
-
-不卖代码，但欢迎交流并乐意为你提供技术上的帮助
-
-失效后才会开源全部代码，并建议大家都如此
-
-微信 HiddenStrawberry
 ![Minghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiddenstrawberry&show_icons=true&theme=radical)
 <!--
 **HiddenStrawberry/HiddenStrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
