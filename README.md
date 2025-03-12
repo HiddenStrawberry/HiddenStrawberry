@@ -31,7 +31,7 @@ Novagrid - A Chinese AI service company offering computing rental, AI deployment
 
 ## 联系我们 / Contact Us
 - **邮箱 / Email**: [qiumh@novagrid.ai](mailto:qiumh@novagrid.ai) <!-- 替换为实际邮箱 -->
-- **网站 / Website**: [www.novagrid.ai](https://www.novagrid.ai) <!-- 替换为实际网站 -->
+- **网站 / Website**: [www.novagrid.ai](http://www.novagrid.ai) <!-- 替换为实际网站 -->
 - **GitHub**: [NovagridAI](https://github.com/NovagridAI) <!-- 替换为实际 GitHub 链接 -->
 
 ---
