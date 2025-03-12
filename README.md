@@ -39,7 +39,7 @@ Novagrid - A Chinese AI service company offering computing rental, AI deployment
 ## 开源项目 / Open Source Projects
 我们积极参与开源社区，欢迎探索我们的项目：
 - [NovAnything](https://github.com/NovagridAI/NovAnything) - 基于 QAnything 开源版增强了用户管理功能，优化了界面体验，适合中小企业零成本部署内部知识库，快速验证功能并投入使用。Built on the QAnything open-source version, with enhanced user management and an optimized interface, ideal for SMEs to deploy internal knowledge bases at zero cost, enabling rapid validation and adoption.
-- [tms-searxng](https://github.com/novagrid/tms-searxng) - 腾讯云 TMS（搜狗搜索内部接口） 与 SearxNG 的搜索引擎集成。 Integration of Tencent Cloud TMS with SearxNG search engine.
+- [tms-searxng](https://github.com/NovagridAI/tms-searxng) - 腾讯云 TMS（搜狗搜索内部接口） 与 SearxNG 的搜索引擎集成。 Integration of Tencent Cloud TMS with SearxNG search engine.
 - [Open-webui-SearxNG-Function](https://github.com/NovagridAI/Open-webui-SearxNG-Function) - Open-Webui 与 SearXNG的搜索引擎函数式集成方案。 A functional integration solution for Open-Webui and SearXNG search engine.
 
 
